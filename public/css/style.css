@@ -270,4 +270,10 @@ footer p {
   .tempInformation {
     width: auto;
   }
+
+  .main_layer .middle_layer p,
+  .main_layer .middle_layer .fa {
+    font-size: 5rem;
+    font-weight: 700;
+  }
 }
